@@ -128,3 +128,4 @@ for (const item of perguntas) {
 
   // coloca a pergunta na tela
   quiz.appendChild(quizItem)
+}
